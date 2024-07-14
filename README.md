@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Ashly Biju</h1>
-<h3 align="center">A passionate web developer and AI/ML enthusiast from India</h3>
+<h3 align="center">A passionate web developer and AI/ML enthusiast</h3>
 
 - 🔭 I’m currently working on **my Btech mini project LEGAl.ai**
 
